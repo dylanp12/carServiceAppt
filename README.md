@@ -1,3 +1,3 @@
 # carServiceAppt
 
-please naviagte to master and see readme there
+please naviagate to master and see readme there
